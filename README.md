@@ -221,8 +221,8 @@ This project is proprietary and confidential.
 
 ## 👥 Contributors
 
-- **Lead Developer**: [Your Name]
-- **Project**: Smart Medical Hub
+- **Lead Developer**: Shana Mudhai
+- **Project**: Smart Patient for Smart Medical Hub
 
 ---
 

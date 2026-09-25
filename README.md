@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart_patient.git
+git clone https://github.com/zaephyrz/smart_patient.git
 cd smart_patient
 ```
 

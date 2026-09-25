@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- For sharing files from the app's internal storage -->
+    <external-path
+        name="external"
+        path="." />
+    <external-files-path
+        name="external_files"
+        path="." />
+    <cache-path
+        name="cache"
+        path="." />
+    <external-cache-path
+        name="external_cache"
+        path="." />
+    <files-path
+        name="files"
+        path="." />
+    
+    <!-- For downloads from the app -->
+    <external-path
+        name="downloads"
+        path="Download/" />
+    <external-path
+        name="Pictures"
+        path="Pictures/" />
+    <external-path
+        name="DCIM"
+        path="DCIM/" />
+</paths>

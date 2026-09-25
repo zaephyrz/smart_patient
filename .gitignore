@@ -1,0 +1,122 @@
+# =============================================
+# Flutter/Dart
+# =============================================
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+**/generated_plugin_registrant.dart
+
+# Flutter build outputs
+**/build/
+**/flutter_assets/
+**/.flutter-plugins-dependencies
+
+# Android
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+**/*.jks
+**/*.keystore
+
+# iOS
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Runner.xcworkspace/xcuserdata/
+**/ios/Runner.xcodeproj/xcuserdata/
+**/ios/ServiceDefinitions.json
+
+# =============================================
+# Python/Flask Backend
+# =============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Flask instance folder (contains database)
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded files
+uploads/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+!screenshots/*.png
+
+# =============================================
+# Environment Variables
+# =============================================
+.env
+.env.local
+.env.*.local
+*.env
+
+# =============================================
+# IDE / Editor
+# =============================================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.sublime-workspace
+.sublime-project
+*.swp
+*.swo
+*~
+
+# =============================================
+# Operating System
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =============================================
+# Logs
+# =============================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =============================================
+# Secrets & Credentials
+# =============================================
+*.pem
+*.key
+secrets/

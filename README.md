@@ -217,11 +217,11 @@ curl http://localhost:8000/health
 
 ## 📄 License
 
-This project is proprietary and confidential.
+Copyright (C) Shana Mudhai. All Rights Reserved.
 
 ## 👥 Contributors
 
-- **Lead Developer**: Shana Mudhai
+- **Lead Developer**: [@zaephyrz](https://github.com/zaephyrz)
 - **Project**: Smart Patient for Smart Medical Hub
 
 ---

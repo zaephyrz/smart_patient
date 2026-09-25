@@ -88,7 +88,7 @@ python populate_appointments.py
 python app.py
 ```
 
-The backend will start on http://localhost:8000.
+The backend will start on `http://localhost:8000`.
 
 ### 3. Frontend Setup
 
@@ -217,7 +217,7 @@ curl http://localhost:8000/health
 
 ## 📄 License
 
-Copyright (C) Shana Mudhai. All Rights Reserved.
+Copyright (c) Shana Mudhai. All Rights Reserved.
 
 ## 👥 Contributors
 
